@@ -41,7 +41,7 @@ Fixes [yt-dlp#4127](https://github.com/yt-dlp/yt-dlp/issues/4127), [FFmpeg#8684]
 
 
 ## Release-only patches
-Patches that have been merged in FFmpeg master, but not in the release:
+Patches that have been merged in FFmpeg master, but not in FFmpeg's latest release:
 
 ### 1. [Fix for YouTube's VP9 encodes with non-monotonous DTS](https://ffmpeg.org/pipermail/ffmpeg-devel/2021-May/280189.html)
 
